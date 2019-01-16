@@ -18,7 +18,7 @@
 	url = git@github.com:zowe/zlux-shared.git
 [submodule "zlux-build"]
 	path = zlux-build
-	url = git@github.com:zowe/zlux-build.git
+	url = git@github.com:fkovinAtRocket/zlux-build.git
 [submodule "sample-iframe-app"]
 	path = sample-iframe-app
 	url = git@github.com:zowe/sample-iframe-app.git
@@ -30,7 +30,7 @@
 	url = git@github.com:zowe/zosmf-auth.git
 [submodule "zss-auth"]
 	path = zss-auth
-	url = git@github.com:zowe/zss-auth.git
+	url = git@github.com:fkovinAtRocket/zss-auth.git
 [submodule "explorer-server-auth"]
 	path = explorer-server-auth
 	url = git@github.com:zowe/explorer-server-auth.git
@@ -48,7 +48,7 @@
 	url = git@github.com:zowe/sample-angular-app.git
 [submodule "zlux-server-framework"]
 	path = zlux-server-framework
-	url = git@github.com:zowe/zlux-server-framework.git
+	url = git@github.com:fkovinAtRocket/zlux-proxy-server-1.git
 [submodule "zlux-app-server"]
 	path = zlux-app-server
-	url = git@github.com:zowe/zlux-app-server.git
+	url = git@github.com:fkovinAtRocket/zlux-example-server.git
